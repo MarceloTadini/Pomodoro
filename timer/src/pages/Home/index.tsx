@@ -11,7 +11,7 @@ export function Home() {
     <HomeContainer>
       <form action="">
         <FormContainer>
-          <label htmlFor="task">Vou trabalahr em</label>
+          <label htmlFor="task">Vou trabalhar em</label>
           <input id="task" />
 
           <label htmlFor="minutesAmount">durante</label>
